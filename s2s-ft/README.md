@@ -17,9 +17,9 @@ git clone https://github.com/NVIDIA/apex.git && cd apex && git reset --hard de63
 
 Install the repo as a package:
 ```bash
-git clone this repo into ${code_dir}
+git clone https://github.com/cwlseu/unilm.git
 
-cd ${code_dir} ; pip install --editable .
+cd unilm/s2s-ft; pip install --editable .
 ```
 
 ## Pre-trained Models
